@@ -1,6 +1,6 @@
 # Birthday
 
-My birthday present for my cousin Astrid's 27th birthday
+My birthday present for Astrid's 27th birthday
 
 ## Development
 
