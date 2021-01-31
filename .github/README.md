@@ -1,24 +1,7 @@
 # Birthday
 
-## Project setup
-```
-npm install
-```
+My birthday present for my cousin Astrid's 27th birthday
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Development
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Development Guide](./DEVELOPMENT.md).
